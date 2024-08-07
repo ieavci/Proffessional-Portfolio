@@ -13,6 +13,370 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master.zip",
+      "PackagePath": "staticwebassets\\hola-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\blog-single.html",
+      "PackagePath": "staticwebassets\\hola-master\\blog-single.html"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\blog.html",
+      "PackagePath": "staticwebassets\\hola-master\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\base.css",
+      "PackagePath": "staticwebassets\\hola-master\\css\\base.css"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\hola-master\\css\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\iconic\\css\\iconmonstr-iconic-font.css",
+      "PackagePath": "staticwebassets\\hola-master\\css\\iconic\\css\\iconmonstr-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\iconic\\css\\iconmonstr-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\hola-master\\css\\iconic\\css\\iconmonstr-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\iconic\\fonts\\iconmonstr-iconic-font.eot",
+      "PackagePath": "staticwebassets\\hola-master\\css\\iconic\\fonts\\iconmonstr-iconic-font.eot"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\iconic\\fonts\\iconmonstr-iconic-font.ttf",
+      "PackagePath": "staticwebassets\\hola-master\\css\\iconic\\fonts\\iconmonstr-iconic-font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\iconic\\fonts\\iconmonstr-iconic-font.woff",
+      "PackagePath": "staticwebassets\\hola-master\\css\\iconic\\fonts\\iconmonstr-iconic-font.woff"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\iconic\\fonts\\iconmonstr-iconic-font.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\css\\iconic\\fonts\\iconmonstr-iconic-font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\main.css",
+      "PackagePath": "staticwebassets\\hola-master\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\hola-master\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\favicon.ico",
+      "PackagePath": "staticwebassets\\hola-master\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\librebaskerville\\librebaskerville-bold-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\librebaskerville\\librebaskerville-bold-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\librebaskerville\\librebaskerville-bold-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\librebaskerville\\librebaskerville-bold-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\librebaskerville\\librebaskerville-italic-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\librebaskerville\\librebaskerville-italic-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\librebaskerville\\librebaskerville-italic-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\librebaskerville\\librebaskerville-italic-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\librebaskerville\\librebaskerville-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\librebaskerville\\librebaskerville-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\librebaskerville\\librebaskerville-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\librebaskerville\\librebaskerville-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-black-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-black-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-black-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-black-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-bold-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-bold-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-bold-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-bold-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-extrabold-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-extrabold-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-extrabold-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-extrabold-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-extralight-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-extralight-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-extralight-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-extralight-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-light-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-light-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-light-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-light-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-medium-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-medium-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-medium-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-medium-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-semibold-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-semibold-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-semibold-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-semibold-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-thin-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-thin-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-thin-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-thin-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\avatars\\user-01.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\avatars\\user-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\avatars\\user-02.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\avatars\\user-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\avatars\\user-03.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\avatars\\user-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\avatars\\user-04.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\avatars\\user-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\avatars\\user-05.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\avatars\\user-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\blog\\blog-bg-01.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\blog\\blog-bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\blog\\blog-bg-02.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\blog\\blog-bg-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\count-bg.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\count-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\logo.png",
+      "PackagePath": "staticwebassets\\hola-master\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\photoswipe\\default-skin.png",
+      "PackagePath": "staticwebassets\\hola-master\\images\\photoswipe\\default-skin.png"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\photoswipe\\default-skin.svg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\photoswipe\\default-skin.svg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\photoswipe\\preloader.gif",
+      "PackagePath": "staticwebassets\\hola-master\\images\\photoswipe\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\beetle.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\beetle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\beetle@2x.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\beetle@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-beetle.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-beetle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-bicycle.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-bicycle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-liberty.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-liberty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-lighthouse.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-lighthouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-minimalismo.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-minimalismo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-salad.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-shutterbug.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-shutterbug.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-skaterboy.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-skaterboy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-woodcraft.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-woodcraft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\liberty.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\liberty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\liberty@2x.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\liberty@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\lighthouse.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\lighthouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\lighthouse@2x.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\lighthouse@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\minimalismo.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\minimalismo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\minimalismo@2x.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\minimalismo@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\salad.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\salad@2x.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\salad@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\shutterbug.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\shutterbug.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\shutterbug@2x.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\shutterbug@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\skaterboy.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\skaterboy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\skaterboy@2x.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\skaterboy@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\woodcraft.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\woodcraft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\portfolio\\woodcraft@2x.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\woodcraft@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\sample-image.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\sample-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\testimonial-bg.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\testimonial-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\wheel-1000.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\wheel-1000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\wheel-2000.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\wheel-2000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\wheel-500.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\wheel-500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\inc\\sendEmail.php",
+      "PackagePath": "staticwebassets\\hola-master\\inc\\sendEmail.php"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\index.html",
+      "PackagePath": "staticwebassets\\hola-master\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\hola-master\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\js\\main.js",
+      "PackagePath": "staticwebassets\\hola-master\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\hola-master\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\js\\pace.min.js",
+      "PackagePath": "staticwebassets\\hola-master\\js\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\hola-master\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\readme.txt",
+      "PackagePath": "staticwebassets\\hola-master\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\styles.html",
+      "PackagePath": "staticwebassets\\hola-master\\styles.html"
+    },
+    {
       "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

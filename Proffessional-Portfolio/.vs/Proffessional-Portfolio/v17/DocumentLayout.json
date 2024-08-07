@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\views\\shared\\components\\_statisticcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\views\\shared\\components\\_statisticcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\viewcomponents\\_statisticcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\viewcomponents\\_statisticcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Views\\Shared\\Components\\_StatisticComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Proffessional-Portfolio\\Views\\Shared\\Components\\_StatisticComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Views\\Shared\\Components\\_StatisticComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Proffessional-Portfolio\\Views\\Shared\\Components\\_StatisticComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T18:30:40.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_StatisticComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\ViewComponents\\_StatisticComponentPartial.cs",
+              "RelativeDocumentMoniker": "Proffessional-Portfolio\\ViewComponents\\_StatisticComponentPartial.cs",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\ViewComponents\\_StatisticComponentPartial.cs",
+              "RelativeToolTip": "Proffessional-Portfolio\\ViewComponents\\_StatisticComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:30:36.131Z",
+              "EditorCaption": ""
             }
           ]
         }
