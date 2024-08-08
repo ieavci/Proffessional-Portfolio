@@ -1,0 +1,62 @@
+﻿@{
+	ViewData["Title"] = "ExperienceList";
+	Layout = "~/Views/Layout/Index.cshtml";
+}
+@model List<Proffessional_Portfolio.DAL.Entities.Experience>
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+			
+			<div class="row">
+				<div class="col-md-12">
+					<div class="card">
+						<div class="card-header">
+							<div class="card-title">Experience List</div>
+						</div>
+						<div class="card-body">
+							<div class="card-sub">
+								You can perform transactions related to experiences :
+							</div>
+							<a href="/Experience/CreateExperience" type="button" class="btn btn-success float-right my-2">Add Experience</a>
+
+							<table class="table mt-3">
+
+								<thead>
+									<tr>
+										<th scope="col">#ExperienceID</th>
+										<th scope="col">Head</th>
+										<th scope="col">Title</th>
+										<th scope="col">Date</th>
+										<th scope="col">Delete</th>
+										<th scope="col">Update</th>
+									</tr>
+								</thead>
+								<tbody>
+
+									@foreach (var item in Model)
+									{
+										<tr>
+											<td>@item.ExperienceID</td>
+											<td>@item.Head</td>
+											<td>@item.Title</td>
+											<td>@item.Date</td>
+											<td><a href="/Experience/DeleteExperience/@item.ExperienceID" type="button" class="btn btn-danger">Sil</a></td>
+											<td><a href="/Experience/UpdateExperience/@item.ExperienceID" type="button" class="btn btn-primary">Güncelle</a></td>
+										</tr>
+									}
+									
+									
+								</tbody>
+							</table>
+						</div>
+					</div>
+					
+					
+				</div>
+				
+			</div>
+		</div>
+	</div>
+	
+</div>
+

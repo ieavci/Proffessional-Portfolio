@@ -68,6 +68,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Westwind.AspNetCore.LiveReload": {
+              "target": "Package",
+              "version": "[0.5.0, )"
             }
           },
           "imports": [

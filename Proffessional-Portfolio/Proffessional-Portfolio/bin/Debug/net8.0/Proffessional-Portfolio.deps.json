@@ -12,7 +12,8 @@
           "Microsoft.EntityFrameworkCore.Design": "8.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.7",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.3"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.3",
+          "Westwind.AspNetCore.LiveReload": "0.5.0"
         },
         "runtime": {
           "Proffessional-Portfolio.dll": {}
@@ -1873,6 +1874,14 @@
             "fileVersion": "7.0.22.51805"
           }
         }
+      },
+      "Westwind.AspNetCore.LiveReload/0.5.0": {
+        "runtime": {
+          "lib/net8.0/Westwind.AspNetCore.LiveReload.dll": {
+            "assemblyVersion": "0.5.0.0",
+            "fileVersion": "0.5.0.0"
+          }
+        }
       }
     }
   },
@@ -2994,6 +3003,13 @@
       "sha512": "sha512-bR4qdCmssMMbo9Fatci49An5B1UaVJZHKNq70PRgzoLYIlitb8Tj7ns/Xt5Pz1CkERiTjcVBDU2y1AVrPBYkaw==",
       "path": "system.windows.extensions/7.0.0",
       "hashPath": "system.windows.extensions.7.0.0.nupkg.sha512"
+    },
+    "Westwind.AspNetCore.LiveReload/0.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yqr9hz88VHyaTbE+W2jeigX1vsdX/4ZcwxN6IdkDFOD6VaVIIqXO1I4Ps8qrmw8deYBE2MzgDrG6OZQWiYCc1g==",
+      "path": "westwind.aspnetcore.livereload/0.5.0",
+      "hashPath": "westwind.aspnetcore.livereload.0.5.0.nupkg.sha512"
     }
   }
 }

@@ -2744,6 +2744,22 @@
             "rid": "win"
           }
         }
+      },
+      "Westwind.AspNetCore.LiveReload/0.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Westwind.AspNetCore.LiveReload.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Westwind.AspNetCore.LiveReload.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -7836,6 +7852,25 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Westwind.AspNetCore.LiveReload/0.5.0": {
+      "sha512": "yqr9hz88VHyaTbE+W2jeigX1vsdX/4ZcwxN6IdkDFOD6VaVIIqXO1I4Ps8qrmw8deYBE2MzgDrG6OZQWiYCc1g==",
+      "type": "package",
+      "path": "westwind.aspnetcore.livereload/0.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.MD",
+        "icon.png",
+        "lib/net6.0/Westwind.AspNetCore.LiveReload.dll",
+        "lib/net6.0/Westwind.AspNetCore.LiveReload.xml",
+        "lib/net7.0/Westwind.AspNetCore.LiveReload.dll",
+        "lib/net7.0/Westwind.AspNetCore.LiveReload.xml",
+        "lib/net8.0/Westwind.AspNetCore.LiveReload.dll",
+        "lib/net8.0/Westwind.AspNetCore.LiveReload.xml",
+        "westwind.aspnetcore.livereload.0.5.0.nupkg.sha512",
+        "westwind.aspnetcore.livereload.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -7844,7 +7879,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 8.0.7",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.7",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.7",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.3"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.3",
+      "Westwind.AspNetCore.LiveReload >= 0.5.0"
     ]
   },
   "packageFolders": {
@@ -7914,6 +7950,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[8.0.3, )"
+          },
+          "Westwind.AspNetCore.LiveReload": {
+            "target": "Package",
+            "version": "[0.5.0, )"
           }
         },
         "imports": [

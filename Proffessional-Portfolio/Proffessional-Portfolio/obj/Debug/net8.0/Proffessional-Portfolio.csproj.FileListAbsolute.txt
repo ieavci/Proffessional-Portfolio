@@ -252,3 +252,4 @@ C:\Users\iavcc\Documents\GitHub\Proffessional-Portfolio\Proffessional-Portfolio\
 C:\Users\iavcc\Documents\GitHub\Proffessional-Portfolio\Proffessional-Portfolio\Proffessional-Portfolio\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\iavcc\Documents\GitHub\Proffessional-Portfolio\Proffessional-Portfolio\Proffessional-Portfolio\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\iavcc\Documents\GitHub\Proffessional-Portfolio\Proffessional-Portfolio\Proffessional-Portfolio\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\iavcc\Documents\GitHub\Proffessional-Portfolio\Proffessional-Portfolio\Proffessional-Portfolio\bin\Debug\net8.0\Westwind.AspNetCore.LiveReload.dll

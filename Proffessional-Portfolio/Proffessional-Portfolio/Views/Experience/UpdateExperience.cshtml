@@ -1,0 +1,61 @@
+﻿@model Proffessional_Portfolio.DAL.Entities.Experience
+@{
+    ViewData["Title"] = "UpdateExperience";
+    Layout = "~/Views/Layout/Index.cshtml";
+}
+
+
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+
+			<div class="row">
+				<div class="col-md-12">
+					<div class="card">
+						<div class="card-header">
+							<div class="card-title">Add Experience</div>
+						</div>
+						<div class="card-body">
+							<div class="card-sub">
+								You can add your experiences:
+							</div>
+							<a href="/Experience/ExperienceList" type="button" class="btn btn-success float-right my-2">Back List</a>
+
+							<div class="form">
+								<form asp-action="UpdateExperience" method="post">
+									<div class="form-group">
+										<label for="exampleFormControlInput1">ExperienceID</label>
+										<input type="hidden" class="form-control" asp-for="ExperienceID" id="exampleFormControlInput1" required>
+									</div>
+									<div class="form-group">
+										<label for="exampleFormControlInput1">Head</label>
+										<input type="text" class="form-control" asp-for="Head" id="exampleFormControlInput1" required>
+									</div>
+									<div class="form-group">
+										<label for="exampleFormControlInput1">Title</label>
+										<input type="text" class="form-control" asp-for="Title" id="exampleFormControlInput1" required>
+									</div>
+									<div class="form-group">
+										<label for="exampleFormControlInput1">Date</label>
+										<input type="text" class="form-control" asp-for="Date" id="exampleFormControlInput1" required>
+									</div>
+
+									<div class="form-group">
+										<label for="exampleFormControlTextarea1">Description</label>
+										<textarea class="form-control" asp-for="Description" id="exampleFormControlTextarea1" rows="4" required></textarea>
+									</div>
+									<button class="btn btn-success">Güncelle</button>
+								</form>
+							</div>
+						</div>
+					</div>
+
+
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+</div>
+

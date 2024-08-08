@@ -30,12 +30,28 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/iavcc/Documents/GitHub/Proffessional-Portfolio/Proffessional-Portfolio/Proffessional-Portfolio/Views/Experience/CreateExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxDcmVhdGVFeHBlcmllbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iavcc/Documents/GitHub/Proffessional-Portfolio/Proffessional-Portfolio/Proffessional-Portfolio/Views/Experience/ExperienceList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxFeHBlcmllbmNlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iavcc/Documents/GitHub/Proffessional-Portfolio/Proffessional-Portfolio/Proffessional-Portfolio/Views/Experience/UpdateExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxVcGRhdGVFeHBlcmllbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/iavcc/Documents/GitHub/Proffessional-Portfolio/Proffessional-Portfolio/Proffessional-Portfolio/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/iavcc/Documents/GitHub/Proffessional-Portfolio/Proffessional-Portfolio/Proffessional-Portfolio/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iavcc/Documents/GitHub/Proffessional-Portfolio/Proffessional-Portfolio/Proffessional-Portfolio/Views/Layout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/iavcc/Documents/GitHub/Proffessional-Portfolio/Proffessional-Portfolio/Proffessional-Portfolio/Views/Shared/Components/_AboutComponentPartial/Default.cshtml]
@@ -60,6 +76,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/iavcc/Documents/GitHub/Proffessional-Portfolio/Proffessional-Portfolio/Proffessional-Portfolio/Views/Shared/Components/_HeadComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iavcc/Documents/GitHub/Proffessional-Portfolio/Proffessional-Portfolio/Proffessional-Portfolio/Views/Shared/Components/_LayoutHeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dEhlYWRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iavcc/Documents/GitHub/Proffessional-Portfolio/Proffessional-Portfolio/Proffessional-Portfolio/Views/Shared/Components/_LayoutNavbarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dE5hdmJhckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iavcc/Documents/GitHub/Proffessional-Portfolio/Proffessional-Portfolio/Proffessional-Portfolio/Views/Shared/Components/_LayoutScriptComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNjcmlwdENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iavcc/Documents/GitHub/Proffessional-Portfolio/Proffessional-Portfolio/Proffessional-Portfolio/Views/Shared/Components/_LayoutSideBarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNpZGVCYXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/iavcc/Documents/GitHub/Proffessional-Portfolio/Proffessional-Portfolio/Proffessional-Portfolio/Views/Shared/Components/_NavbarComponentPartial/Default.cshtml]
