@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\views\\experience\\updateexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\views\\experience\\updateexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\views\\experience\\experiencelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\views\\experience\\experiencelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\dal\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\dal\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,63 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateExperience.cshtml",
-              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Views\\Experience\\UpdateExperience.cshtml",
-              "RelativeDocumentMoniker": "Proffessional-Portfolio\\Views\\Experience\\UpdateExperience.cshtml",
-              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Views\\Experience\\UpdateExperience.cshtml",
-              "RelativeToolTip": "Proffessional-Portfolio\\Views\\Experience\\UpdateExperience.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAmwBwAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-08T20:17:34.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Experience.cs",
-              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\DAL\\Entities\\Experience.cs",
-              "RelativeDocumentMoniker": "Proffessional-Portfolio\\DAL\\Entities\\Experience.cs",
-              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\DAL\\Entities\\Experience.cs",
-              "RelativeToolTip": "Proffessional-Portfolio\\DAL\\Entities\\Experience.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T20:09:38.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExperienceList.cshtml",
-              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Views\\Experience\\ExperienceList.cshtml",
-              "RelativeDocumentMoniker": "Proffessional-Portfolio\\Views\\Experience\\ExperienceList.cshtml",
-              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Views\\Experience\\ExperienceList.cshtml",
-              "RelativeToolTip": "Proffessional-Portfolio\\Views\\Experience\\ExperienceList.cshtml",
-              "ViewState": "AQIAABwAAAAAAAAAAAAuwBUAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-08T13:12:50.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExperienceController.cs",
-              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Controllers\\ExperienceController.cs",
-              "RelativeDocumentMoniker": "Proffessional-Portfolio\\Controllers\\ExperienceController.cs",
-              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Controllers\\ExperienceController.cs",
-              "RelativeToolTip": "Proffessional-Portfolio\\Controllers\\ExperienceController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAUwEMAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T10:56:37.198Z",
-              "EditorCaption": ""
             }
           ]
         }

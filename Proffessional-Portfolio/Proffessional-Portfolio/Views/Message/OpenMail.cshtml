@@ -1,0 +1,73 @@
+﻿@{
+	ViewData["Title"] = "OpenMail";
+	Layout = "~/Views/Layout/Index.cshtml";
+}
+
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+
+			<div class="row">
+				<div class="col-md-12">
+					<div class="card">
+						<div class="card-header">
+							<div class="card-title">Mail Box</div>
+						</div>
+						<div class="card-body">
+							<div class="card-sub">
+								You can read messages :
+							</div>
+
+							<div>
+								<h5>
+									Subject:
+									<strong>
+										@Model.Subject
+									</strong>
+								</h5>
+							</div>
+							<div class="mx-4">
+								<div class="row">
+									<p>Name Surname: </p>
+									<strong>
+										<p>@Model.NameSurname</p>
+									</strong>
+								</div>
+								<div class="row">
+									<p>Email: </p>
+									<strong>
+										<p>@Model.Email</p>
+									</strong>
+								</div>
+							</div>
+
+							<div class="py-1"><small>@Model.SendDate</small></div>
+							<hr />
+							<div class="py-4 px-2"><p>@Model.MessageDetail</p></div>
+							<hr />
+
+							<div>
+							</div>
+							<div class="row">
+								<div class="col-6">
+									<a href="/Message" class="btn btn-primary">Back Message Box</a>
+								</div>
+								<div class="col-6 d-flex justify-content-end">
+									<a href="/Message/DeleteMessage/@Model.MessageId" type="button" class="btn btn-danger">Delete</a>
+								</div>
+							</div>
+
+
+
+						</div>
+					</div>
+
+
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
