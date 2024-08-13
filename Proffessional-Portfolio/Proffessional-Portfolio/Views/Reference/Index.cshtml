@@ -1,0 +1,62 @@
+﻿@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Layout/Index.cshtml";
+}
+
+@model List<Proffessional_Portfolio.DAL.Entities.Testimonial>
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+
+			<div class="row">
+				<div class="col-md-12">
+					<div class="card">
+						<div class="card-header">
+							<div class="card-title">Reference List</div>
+						</div>
+						<div class="card-body">
+							<div class="card-sub">
+								You can perform transactions related to references :
+							</div>
+							<a href="/Reference/CreateReference" type="button" class="btn btn-success float-right my-2">Add Reference</a>
+
+							<table class="table mt-3">
+
+								<thead>
+									<tr>
+										<th scope="col">#</th>
+										<th scope="col">NameSurname</th>
+										<th scope="col">Title</th>
+										<th scope="col">ImageUrl</th>										
+										<th scope="col">Delete</th>
+										<th scope="col">Update</th>
+									</tr>
+								</thead>
+								<tbody>
+
+									@foreach (var item in Model)
+									{
+										<tr>
+											<td>@item.TestimonialId</td>
+											<td>@item.NameSurname</td>
+											<td>@item.Title</td>
+											<td><img src="@item.ImageUrl" width="40" height="auto"/></td>
+											<td><a href="/Reference/DeleteReference/@item.TestimonialId" type="button" class="btn btn-danger">Delete</a></td>
+											<td><a href="/Reference/UpdateReference/@item.TestimonialId" type="button" class="btn btn-primary">Update</a></td>
+										</tr>
+									}
+
+
+								</tbody>
+							</table>
+						</div>
+					</div>
+
+
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+</div>

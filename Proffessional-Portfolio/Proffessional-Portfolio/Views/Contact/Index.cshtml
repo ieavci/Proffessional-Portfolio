@@ -1,0 +1,56 @@
+﻿@model Proffessional_Portfolio.DAL.Entities.Contact
+
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Layout/Index.cshtml";
+}
+
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+
+			<div class="row">
+				<div class="col-md-12">
+					<div class="card">
+						<div class="card-header">
+							<div class="card-title">Contact Section</div>
+						</div>
+						<div class="card-body">
+							<div class="card-sub">
+								You can read your Contact Section:
+							</div>
+
+
+							<div class="form">
+								<div class="form-group">
+									<label for="exampleFormControlInput1"><strong>Title:  </strong>@Model.Title</label>
+								</div>
+
+								<div class="form-group">
+									<label for="exampleFormControlTextarea1"><strong>Description:  </strong>@Model.Description</label>
+								</div>
+
+								<div class="form-group">
+									<label for="exampleFormControlTextarea1"><strong>Phone1:  </strong>@Model.Phone1</label>
+								</div>
+								<div class="form-group">
+									<label for="exampleFormControlTextarea1"><strong>Email1:  </strong>@Model.Email1</label>
+								</div>
+								<div class="form-group">
+									<label for="exampleFormControlTextarea1"><strong>Address:  </strong>@Model.Address</label>
+								</div>
+								<a href="/Contact/UpdateContact/@Model.ContactID" class="btn btn-primary">Edit</a>
+
+							</div>
+						</div>
+					</div>
+
+
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+</div>
+

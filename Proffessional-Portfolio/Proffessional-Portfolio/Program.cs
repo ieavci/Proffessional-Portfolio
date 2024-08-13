@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using Proffessional_Portfolio.DAL.Context;
 using Westwind.AspNetCore.LiveReload;
 
 var builder = WebApplication.CreateBuilder(args);

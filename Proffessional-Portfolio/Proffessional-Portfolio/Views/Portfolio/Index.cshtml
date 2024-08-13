@@ -1,0 +1,68 @@
+﻿@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Layout/Index.cshtml";
+}
+
+@model List<Proffessional_Portfolio.DAL.Entities.Portfolio>
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+
+			<div class="row">
+				<div class="col-md-12">
+					<div class="card">
+						<div class="card-header">
+							<div class="card-title">Porfolio List</div>
+						</div>
+						<div class="card-body">
+							<div class="card-sub">
+								You can perform transactions related to projects :
+							</div>
+							<a href="/Portfolio/CreatePortfolio" type="button" class="btn btn-success float-right my-2">Add Project</a>
+
+							<table class="table mt-3">
+
+								<thead>
+									<tr>
+										<th scope="col">#</th>
+										<th scope="col">Title</th>
+										<th scope="col">SubTitle</th>
+										<th scope="col">ImageUrl</th>
+										<th scope="col">Url</th>
+										<th scope="col">Delete</th>
+										<th scope="col">Update</th>
+									</tr>
+								</thead>
+								<tbody>
+
+									@foreach (var item in Model)
+									{
+										<tr>
+											<td>@item.PortfolioId</td>
+											<td>@item.Title</td>
+											<td>@item.SubTitle</td>
+											<td><img src="@item.ImageUrl" width="40" height="auto" /></td>
+											<td>
+												<p style="width: 200px;white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+													@item.Url
+												</p>
+											</td>
+											<td><a href="/Portfolio/DeletePortfolio/@item.PortfolioId" type="button" class="btn btn-danger">Delete</a></td>
+											<td><a href="/Portfolio/UpdatePortfolio/@item.PortfolioId" type="button" class="btn btn-primary">Update</a></td>
+										</tr>
+									}
+
+
+								</tbody>
+							</table>
+						</div>
+					</div>
+
+
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+</div>

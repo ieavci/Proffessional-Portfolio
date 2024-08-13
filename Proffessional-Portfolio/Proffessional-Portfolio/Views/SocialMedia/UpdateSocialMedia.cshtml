@@ -1,0 +1,56 @@
+﻿@model Proffessional_Portfolio.DAL.Entities.SocailMedia
+@{
+	ViewData["Title"] = "UpdateSocialMedia";
+	Layout = "~/Views/Layout/Index.cshtml";
+}
+
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+
+			<div class="row">
+				<div class="col-md-12">
+					<div class="card">
+						<div class="card-header">
+							<div class="card-title">Update Social Media </div>
+						</div>
+						<div class="card-body">
+							<div class="card-sub">
+								You can edit your social medias:
+							</div>
+							<a href="/SocialMedia" type="button" class="btn btn-success float-right my-2">Back List</a>
+
+							<div class="form">
+								<form asp-action="UpdateSocialMedia" method="post">
+									<input type="hidden" class="form-control" asp-for="SocailMediaId" id="" required>
+
+									<div class="form-group">
+										<label for="exampleFormControlInput1">Title</label>
+										<input type="text" class="form-control" asp-for="Title" id="" required>
+									</div>
+
+									<div class="form-group">
+										<label for="exampleFormControlInput1">Url</label>
+										<input type="text" class="form-control" asp-for="Url" id="" required>
+									</div>
+									<div class="form-group">
+										<label for="exampleFormControlInput1">Icon Tag (From <a href="https://fontawesome.com/v6/icons" target="_blank">fontawesome.com</a> )</label>
+										<input type="text" class="form-control" asp-for="Icon" id="" required>
+									</div>
+
+
+									<button class="btn btn-success">Update</button>
+								</form>
+							</div>
+						</div>
+					</div>
+
+
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+</div>
+

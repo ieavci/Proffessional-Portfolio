@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json.Linq;
 using Proffessional_Portfolio.DAL.Context;
 using Proffessional_Portfolio.DAL.Entities;
 
@@ -10,6 +11,18 @@ namespace Proffessional_Portfolio.Controllers
 		public IActionResult Index()
 		{
 			var value = _context.Abouts.FirstOrDefault();
+
+			if (value == null)
+			{
+				value = new About();
+				value.Title = "Add Title";
+				value.SubDescription = "Add SubDescription";
+				value.Details = "Add Details";
+				
+				_context.Abouts.Add(value);
+				_context.SaveChanges();
+			}
+
 			return View(value);
 		}
 

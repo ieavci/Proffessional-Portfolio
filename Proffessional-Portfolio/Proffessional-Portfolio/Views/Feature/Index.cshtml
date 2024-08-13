@@ -1,0 +1,56 @@
+﻿@model Proffessional_Portfolio.DAL.Entities.Feature
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Layout/Index.cshtml";
+}
+
+
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+
+			<div class="row">
+				<div class="col-md-12">
+					<div class="card">
+						<div class="card-header">
+							<div class="card-title">Update Feature Section</div>
+						</div>
+						<div class="card-body">
+							<div class="card-sub">
+								You can update your Feature Section:
+							</div>
+
+
+							<div class="form">
+
+								<form asp-action="Index" method="post">
+									<input type="hidden" asp-for="FeatureId" />
+
+									<div class="form-group">
+										<label for="exampleFormControlInput1">Title</label>
+										<input type="text" class="form-control" asp-for="Title" id="exampleFormControlInput1" placeholder="@Model.Title" required>
+									</div>
+
+									<div class="form-group">
+										<label for="exampleFormControlTextarea1">Description</label>
+										<textarea class="form-control" asp-for="Description" id="exampleFormControlTextarea1" placeholder="@Model.Description" rows="6" required></textarea>
+									</div>
+
+									
+									<button class="btn btn-success">Update</button>
+								</form>
+							</div>
+						</div>
+					</div>
+
+
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+
+

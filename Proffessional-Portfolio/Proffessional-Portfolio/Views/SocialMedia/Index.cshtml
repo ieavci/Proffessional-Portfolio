@@ -1,0 +1,62 @@
+﻿@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Layout/Index.cshtml";
+}
+
+@model List<Proffessional_Portfolio.DAL.Entities.SocailMedia>
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+
+			<div class="row">
+				<div class="col-md-12">
+					<div class="card">
+						<div class="card-header">
+							<div class="card-title">Social Media List</div>
+						</div>
+						<div class="card-body">
+							<div class="card-sub">
+								You can perform transactions related to social medias :
+							</div>
+							<a href="/SocialMedia/CreateSocialMedia" type="button" class="btn btn-success float-right my-2">Add Social Media</a>
+
+							<table class="table mt-3">
+
+								<thead>
+									<tr>
+										<th scope="col">#</th>
+										<th scope="col">Title</th>
+										<th scope="col">Url</th>
+										<th scope="col">Icon</th>
+										<th scope="col">Delete</th>
+										<th scope="col">Update</th>
+									</tr>
+								</thead>
+								<tbody>
+
+									@foreach (var item in Model)
+									{
+										<tr>
+											<td>@item.SocailMediaId</td>
+											<td>@item.Title</td>
+											<td>@item.Url</td>
+											<td>@Html.Raw(item.Icon)</td>
+											<td><a href="/SocialMedia/DeleteSocialMedia/@item.SocailMediaId" type="button" class="btn btn-danger">Delete</a></td>
+											<td><a href="/SocialMedia/UpdateSocialMedia/@item.SocailMediaId" type="button" class="btn btn-primary">Update</a></td>
+										</tr>
+									}
+
+
+								</tbody>
+							</table>
+						</div>
+					</div>
+
+
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+</div>

@@ -1,0 +1,53 @@
+﻿@model Proffessional_Portfolio.DAL.Entities.Skill
+
+@{
+    ViewData["Title"] = "CreateSkill";
+    Layout = "~/Views/Layout/Index.cshtml";
+}
+
+<h1>CreateSkill</h1>
+
+
+
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+
+			<div class="row">
+				<div class="col-md-12">
+					<div class="card">
+						<div class="card-header">
+							<div class="card-title">Add Skill</div>
+						</div>
+						<div class="card-body">
+							<div class="card-sub">
+								You can add your skills:
+							</div>
+							<a href="/Skill" type="button" class="btn btn-success float-right my-2">Back List</a>
+
+							<div class="form">
+								<form asp-action="CreateSkill" method="post">
+									<div class="form-group">
+										<label for="exampleFormControlInput1">Title</label>
+										<input type="text" class="form-control" asp-for="Title" id="" required>
+									</div>
+									<div class="form-group">
+										<label for="exampleFormControlInput1">Value</label>
+										<input type="text" class="form-control" asp-for="Value" id="" required>
+									</div>
+									
+									<button class="btn btn-success">Add</button>
+								</form>
+							</div>
+						</div>
+					</div>
+
+
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
