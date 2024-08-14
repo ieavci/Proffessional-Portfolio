@@ -1,0 +1,10 @@
+﻿@model List<Proffessional_Portfolio.DAL.Entities.SocailMedia>
+@foreach (var item in Model)
+{
+	<li>
+		<a href="@item.Url">
+			@Html.Raw(item.Icon)
+			<span>@item.Title</span>
+		</a>
+	</li>
+}

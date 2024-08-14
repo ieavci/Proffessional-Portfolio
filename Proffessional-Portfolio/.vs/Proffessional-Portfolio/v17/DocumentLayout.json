@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\controllers\\aboutmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\controllers\\aboutmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\views\\shared\\components\\_contactcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\views\\shared\\components\\_contactcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\wwwroot\\hola-master\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\wwwroot\\hola-master\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\wwwroot\\hola-master\\css\\vendor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\wwwroot\\hola-master\\css\\vendor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\views\\contact\\updatecontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\views\\contact\\updatecontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\wwwroot\\hola-master\\css\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\wwwroot\\hola-master\\css\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\controllers\\referencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\controllers\\referencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|c:\\users\\iavcc\\documents\\github\\proffessional-portfolio\\proffessional-portfolio\\proffessional-portfolio\\wwwroot\\hola-master\\css\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BDF3E276-45FF-400D-9E95-C5DA56154731}|Proffessional-Portfolio\\Proffessional-Portfolio.csproj|solutionrelative:proffessional-portfolio\\wwwroot\\hola-master\\css\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Views\\Shared\\Components\\_ContactComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Proffessional-Portfolio\\Views\\Shared\\Components\\_ContactComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Views\\Shared\\Components\\_ContactComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Proffessional-Portfolio\\Views\\Shared\\Components\\_ContactComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T10:09:38.361Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -43,79 +56,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\DAL\\Entities\\Contact.cs",
-              "RelativeDocumentMoniker": "Proffessional-Portfolio\\DAL\\Entities\\Contact.cs",
-              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\DAL\\Entities\\Contact.cs",
-              "RelativeToolTip": "Proffessional-Portfolio\\DAL\\Entities\\Contact.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T13:17:25.666Z",
+              "Title": "vendor.css",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\vendor.css",
+              "RelativeDocumentMoniker": "Proffessional-Portfolio\\wwwroot\\hola-master\\css\\vendor.css",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\vendor.css",
+              "RelativeToolTip": "Proffessional-Portfolio\\wwwroot\\hola-master\\css\\vendor.css",
+              "ViewState": "AQIAAAQEAAAAAAAAAAAwwBUEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T10:12:30.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\main.css",
+              "RelativeDocumentMoniker": "Proffessional-Portfolio\\wwwroot\\hola-master\\css\\main.css",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\main.css",
+              "RelativeToolTip": "Proffessional-Portfolio\\wwwroot\\hola-master\\css\\main.css",
+              "ViewState": "AQIAAMEAAAAAAAAAAIAwwNQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T10:11:17.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fonts.css",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\fonts.css",
+              "RelativeDocumentMoniker": "Proffessional-Portfolio\\wwwroot\\hola-master\\css\\fonts.css",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\fonts.css",
+              "RelativeToolTip": "Proffessional-Portfolio\\wwwroot\\hola-master\\css\\fonts.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T10:11:10.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "base.css",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\base.css",
+              "RelativeDocumentMoniker": "Proffessional-Portfolio\\wwwroot\\hola-master\\css\\base.css",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\css\\base.css",
+              "RelativeToolTip": "Proffessional-Portfolio\\wwwroot\\hola-master\\css\\base.css",
+              "ViewState": "AQIAAFgAAAAAAAAAAIAwwGsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T10:10:49.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "Proffessional-Portfolio\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "Proffessional-Portfolio\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCoAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proffessional-Portfolio\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Proffessional-Portfolio\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T18:20:40.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "Proffessional-Portfolio\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "Proffessional-Portfolio\\Controllers\\ContactController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T18:15:40.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AboutMeController.cs",
-              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Controllers\\AboutMeController.cs",
-              "RelativeDocumentMoniker": "Proffessional-Portfolio\\Controllers\\AboutMeController.cs",
-              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Controllers\\AboutMeController.cs",
-              "RelativeToolTip": "Proffessional-Portfolio\\Controllers\\AboutMeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T18:19:19.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateContact.cshtml",
-              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Views\\Contact\\UpdateContact.cshtml",
-              "RelativeDocumentMoniker": "Proffessional-Portfolio\\Views\\Contact\\UpdateContact.cshtml",
-              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Views\\Contact\\UpdateContact.cshtml",
-              "RelativeToolTip": "Proffessional-Portfolio\\Views\\Contact\\UpdateContact.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAA0AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T18:39:01.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ReferenceController.cs",
-              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Controllers\\ReferenceController.cs",
-              "RelativeDocumentMoniker": "Proffessional-Portfolio\\Controllers\\ReferenceController.cs",
-              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\Controllers\\ReferenceController.cs",
-              "RelativeToolTip": "Proffessional-Portfolio\\Controllers\\ReferenceController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:15:05.269Z",
+              "WhenOpened": "2024-08-14T10:06:40.066Z",
               "EditorCaption": ""
             }
           ]

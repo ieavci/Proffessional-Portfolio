@@ -1529,29 +1529,33 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     width: 80px;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
+    
 }
-
-
-/* ------------------------------------------------------------------- 
+    .header-logo a img {
+        width: 1000px!important; /* Logonun geniþliði */
+        height: auto; /* Oranlarýný korumak için otomatik yükseklik */
+        max-width: 100%; /* Responsive tasarým için */
+    }
+   
+    /* ------------------------------------------------------------------- 
  * ## mobile menu toggle - (_site-layout.css) 
  * ------------------------------------------------------------------- */
-
-.header-menu-toggle {
-    display: none;
-    position: absolute;
-    right: 29px;
-    top: 18px;
-    height: 42px;
-    width: 42px;
-    line-height: 42px;
-    font-family: "montserrat-regular", sans-serif;
-    font-size: 1.4rem;
-    text-transform: uppercase;
-    letter-spacing: .2rem;
-    color: rgba(255, 255, 255, 0.5);
-    -webkit-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-}
+    .header-menu-toggle {
+        display: none;
+        position: absolute;
+        right: 29px;
+        top: 18px;
+        height: 42px;
+        width: 42px;
+        line-height: 42px;
+        font-family: "montserrat-regular", sans-serif;
+        font-size: 1.4rem;
+        text-transform: uppercase;
+        letter-spacing: .2rem;
+        color: rgba(255, 255, 255, 0.5);
+        -webkit-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+    }
 
 .header-menu-toggle:hover, .header-menu-toggle:focus {
     color: #FFFFFF;

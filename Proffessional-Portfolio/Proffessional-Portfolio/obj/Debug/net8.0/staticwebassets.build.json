@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CoHFrfeYWYQ96KmIjNf7aSAKIEUuqN7tbNkPL6YK92Y=",
+  "Hash": "socH2biGR6R8y5OUojW9/59vv9dkyyJBxVZ79ZPBQSI=",
   "Source": "Proffessional-Portfolio",
   "BasePath": "_content/Proffessional-Portfolio",
   "Mode": "Default",
@@ -910,6 +910,25 @@
       "OriginalItemSpec": "wwwroot\\hola-master\\images\\avatars\\user-05.jpg"
     },
     {
+      "Identity": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\Başlıksız-1.png",
+      "SourceId": "Proffessional-Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\",
+      "BasePath": "_content/Proffessional-Portfolio",
+      "RelativePath": "hola-master/images/Başlıksız-1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\hola-master\\images\\Başlıksız-1.png"
+    },
+    {
       "Identity": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\blog\\blog-bg-01.jpg",
       "SourceId": "Proffessional-Portfolio",
       "SourceType": "Discovered",
@@ -1003,25 +1022,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\hola-master\\images\\hero-bg.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\logo.png",
-      "SourceId": "Proffessional-Portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\",
-      "BasePath": "_content/Proffessional-Portfolio",
-      "RelativePath": "hola-master/images/logo.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\hola-master\\images\\logo.png"
     },
     {
       "Identity": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\photoswipe\\default-skin.png",
@@ -1782,6 +1782,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\hola-master\\js\\plugins.js"
+    },
+    {
+      "Identity": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\logo.png",
+      "SourceId": "Proffessional-Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\",
+      "BasePath": "_content/Proffessional-Portfolio",
+      "RelativePath": "hola-master/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\hola-master\\logo.png"
     },
     {
       "Identity": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\readme.txt",

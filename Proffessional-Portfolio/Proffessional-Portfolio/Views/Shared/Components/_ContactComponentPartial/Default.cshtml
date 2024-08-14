@@ -1,13 +1,14 @@
-﻿<section id="contact" class="s-contact target-section">
+﻿@model Proffessional_Portfolio.DAL.Entities.Contact
+<section id="contact" class="s-contact target-section">
 
 	<div class="overlay"></div>
 
 	<div class="row narrow section-intro">
 		<div class="col-full">
 			<h3>Contact</h3>
-			<h1>Say Hello.</h1>
+			<h1>@Model.Title</h1>
 
-			<p class="lead">Lorem ipsum Dolor adipisicing nostrud et aute Excepteur amet commodo ea dolore irure esse Duis nulla sint fugiat cillum ullamco proident aliquip quis qui voluptate dolore veniam Ut laborum non est in officia.</p>
+			<p class="lead">@Model.Description</p>
 		</div>
 	</div>
 
@@ -57,22 +58,20 @@
 		<div class="col-four tab-full contact__infos">
 			<h4 class="h06">Phone</h4>
 			<p>
-				Phone: (+63) 555 1212<br>
+				Phone: @Model.Phone1<br>
 				
-				Fax: (+63) 555 0101
+				
 			</p>
 
 			<h4 class="h06">Email</h4>
 			<p>
-				someone@holawebsite.com<br>
+				@Model.Email1<br>
 			
 			</p>
 
 			<h4 class="h06">Address</h4>
 			<p>
-				1600 Amphitheatre Parkway<br>
-				Mountain View, CA<br>
-				94043 US
+				@Model.Address
 			</p>
 		</div>
 

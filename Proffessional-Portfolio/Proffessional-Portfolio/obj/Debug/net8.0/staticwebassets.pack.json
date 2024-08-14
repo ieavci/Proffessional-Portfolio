@@ -473,6 +473,10 @@
       "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-thin-webfont.woff2"
     },
     {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\Başlıksız-1.png",
+      "PackagePath": "staticwebassets\\hola-master\\images\\Başlıksız-1.png"
+    },
+    {
       "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\avatars\\user-01.jpg",
       "PackagePath": "staticwebassets\\hola-master\\images\\avatars\\user-01.jpg"
     },
@@ -511,10 +515,6 @@
     {
       "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\hero-bg.jpg",
       "PackagePath": "staticwebassets\\hola-master\\images\\hero-bg.jpg"
-    },
-    {
-      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\logo.png",
-      "PackagePath": "staticwebassets\\hola-master\\images\\logo.png"
     },
     {
       "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\images\\photoswipe\\default-skin.png",
@@ -675,6 +675,10 @@
     {
       "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\js\\plugins.js",
       "PackagePath": "staticwebassets\\hola-master\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\logo.png",
+      "PackagePath": "staticwebassets\\hola-master\\logo.png"
     },
     {
       "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\Proffessional-Portfolio\\Proffessional-Portfolio\\Proffessional-Portfolio\\wwwroot\\hola-master\\readme.txt",
